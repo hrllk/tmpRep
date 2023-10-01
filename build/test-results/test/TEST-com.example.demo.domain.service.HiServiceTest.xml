@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.domain.service.HiServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-01T10:14:25" hostname="HWIRYUNGs-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="hi()" classname="com.example.demo.domain.service.HiServiceTest" time="0.001"/>
+  <system-out><![CDATA[hi
+hi
+hi
+hi
+hi
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
